@@ -1,0 +1,2 @@
+# 02_EDA_InferentialStats_Springboard
+Mini_Project_EDA_02
